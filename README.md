@@ -1,1 +1,1 @@
-# Cases dados em aula e resolvidos
+# Cases de dados e resolvidos
